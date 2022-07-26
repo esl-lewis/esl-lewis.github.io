@@ -28,7 +28,7 @@ twitter_username: esllewis
 github_username:  esl-lewis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
