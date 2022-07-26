@@ -5,5 +5,4 @@
 layout: home
 ---
 
-# Emily Lewis
 * PhD student at University College London and Culham Centre for Fusion Energy
