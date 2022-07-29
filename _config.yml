@@ -29,7 +29,7 @@ twitter_username: esllewis
 github_username:  esl-lewis
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
