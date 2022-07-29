@@ -22,7 +22,7 @@ title: Emily Lewis
 email: emily.lewis.20@ucl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Data science and ML project repository.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://esl-lewis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: esllewis
 github_username:  esl-lewis
 
