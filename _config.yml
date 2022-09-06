@@ -2,20 +2,22 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+gems: 
+  - jekyll-paginate
+
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Emily Lewis
+tagline:          'Machine Learning for Nuclear Fusion'
+description:      'Physics and Machine Learning PhD at UCL and CCFE'
+url:              http://esl-lewis.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Emily Lewis'
+  url:            https://twitter.com/esllewis
 
 paginate:         5
 
