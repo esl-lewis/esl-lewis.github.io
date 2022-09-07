@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+# markdown:         redcarpet
 highlighter:      pygments
 
 gems: 
@@ -11,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            Emily Lewis
 tagline:          'Machine Learning for Nuclear Fusion'
-description:      'Physics and Machine Learning PhD at UCL and CCFE'
+description:      'Physics and Machine Learning PhD at UCL'
 url:              http://esl-lewis.github.io
 baseurl:          /
 
