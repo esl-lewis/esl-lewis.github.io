@@ -1,11 +1,12 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
+      <img src="/public/pic.jpg" alt="portrait">
+      <h2>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h1>
+      </h2>
       <p class="lead">{{ site.description }}</p>
 
     </div>
@@ -28,11 +29,13 @@
       {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="../public/CV_ELewis.pdf" target="_blank">CV</a>
+      <a class="sidebar-nav-item" href="/public/CV_ELewis.pdf" target="_blank">CV/Resume</a>
       <div id="social-icons" style="display: flex;">
         <a class="sidebar-nav-item" href="{{ site.github.url }}"><i class="fa fa-github fa-2x"
             aria-hidden="true"></i></a>
         <a class="sidebar-nav-item" href="{{ site.twitter.url }}"><i class="fa fa-twitter fa-2x"
+            aria-hidden="true"></i></a>
+        <a class="sidebar-nav-item" href="{{ site.linkedin.url }}"><i class="fa fa-linkedin-square fa-2x"
             aria-hidden="true"></i></a>
       </div </nav>
 
