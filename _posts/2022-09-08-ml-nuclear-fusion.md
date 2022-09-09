@@ -4,41 +4,23 @@ title: Machine Learning for Nuclear Fusion
 ---
 
 Hello! I'm Emily, a third year PhD student at UCL's [Centre for Data Intensive Science](https://www.hep.ucl.ac.uk/cdt-dis/) and the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
+I'm interested in helping make nuclear fusion a viable energy source in the effort to combat climate change. 
 
+My research focus is applying data driven tools to nuclear fusion applications. Currently I am investigating **physics-informed neural networks** for ability to **accelerate plasma simulations** on the JET reactor. My other research interests include deep learning surrogate models, cybersecurity and plasma disruption prediction. 
 
-My research focus is applying data driven tools to nuclear fusion applications. Currently I am investigating **physics-informed neural networks** for their potential in **accelerating plasma simulations** on the JET reactor.   
+I'm also a fellow of the [Software Sustainabilty Institute](https://www.software.ac.uk/) where I advocate for better software practices in academia and teach introductory programming skills with the [Software Carpentries](https://software-carpentry.org/).  
 
-I've also been 
-
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Find an overview of my research and technical experience below or on my [CV](/public/CV_ELewis.pdf). 
 
 ### Publications
 
-My previous research 
+* **E. Lewis**, S. Pamela, Y. Andreopoulos, G. Szepesi, "Neural surrogates for fast Grad-Shafranov equilibria reconstruction", 48th Conference on Plasma Physics (2022) (*Poster presentation*) 
+* E. Lewis, T. Mlinarevic, A. Wilkinson, ["Machine Learning for Static Malware Analysis"](https://research.nccgroup.com/2021/06/07/research-paper-machine-learning-for-static-malware-analysis-with-university-college-london/), NCC Technical Report (2021) (*Technical note*)
+* **E. Lewis**, G. Cartland-Glover, S. Rolfo, C. Moulinec, D. Emerson, B. Merk ["Modelling the draining of a molten chloride salt reactor"](https://www.researchgate.net/publication/336956207_Modelling_the_draining_of_a_molten_chloride_salt_reactor), 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon (2019)
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-### Hyde features
+### Selected Technical Experience
 
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+* Research software engineer at the Science and Technology Facilities Council (STFC). Developed a **React** front-end tool for the Diamond Light Source data storage service. Deployed the threat intelligence platform MISP, for a proof-of-concept **security operations centre** on the STFC Cloud.  
+* Data science and cybersecurity placement at NCC Group. Built an **ensemble deep learning model** to classify between malware and benign software. 
+* Teaching assistant for UCL's software carpentry workshop. Demonstrated the **Python** and **Git** sessions. 
