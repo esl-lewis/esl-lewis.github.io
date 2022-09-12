@@ -10,7 +10,9 @@ My research focus is applying data driven tools to nuclear fusion applications. 
 
 I'm also a fellow of the [Software Sustainabilty Institute](https://www.software.ac.uk/) where I advocate for better software practices in academia and teach introductory programming skills with the [Software Carpentries](https://software-carpentry.org/).  
 
-Find an overview of my research and technical experience below or on my [CV](/public/CV_ELewis.pdf). 
+Find an overview of my research and technical experience below or on my [CV](/public/CV_ELewis.pdf). Find me on [twitter](https://twitter.com/esllewis) where I mainly talk about science outreach and silly uses of ML. Checkout my [github](https://github.com/esl-lewis) for personal programming projects. 
+
+
 
 ### Publications
 
@@ -24,3 +26,7 @@ Find an overview of my research and technical experience below or on my [CV](/pu
 * Research software engineer at the Science and Technology Facilities Council (STFC). Developed a **React** front-end tool for the Diamond Light Source data storage service. Deployed the threat intelligence platform MISP, for a proof-of-concept **security operations centre** on the STFC Cloud.  
 * Data science and cybersecurity placement at NCC Group. Built an **ensemble deep learning model** to classify between malware and benign software. 
 * Teaching assistant for UCL's software carpentry workshop. Demonstrated the **Python** and **Git** sessions. 
+
+
+
+This site was built using [Hyde](http://hyde.getpoole.com), a [Jekyll](http://jekyllrb.com) theme by [@mdo](https://twitter.com/mdo). 

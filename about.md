@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-published: true
+published: false
 ---
 
 Find me on [twitter](https://twitter.com/esllewis) where I mainly talk about science outreach and silly uses of ML. Checkout my [github](https://github.com/esl-lewis) for my personal programming projects. 
