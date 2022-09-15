@@ -6,7 +6,7 @@ title: Machine Learning for Nuclear Fusion
 Hello! I'm Emily, a third year PhD student at UCL's [Centre for Data Intensive Science](https://www.hep.ucl.ac.uk/cdt-dis/) and the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
 I'm interested in helping make nuclear fusion a viable energy source in the effort to combat climate change. 
 
-My research focus is applying data driven tools to nuclear fusion applications. Currently I am investigating **physics-informed neural networks** for ability to **accelerate plasma simulations** on the JET reactor. My other research interests include deep learning surrogate models, cybersecurity and plasma disruption prediction. 
+My research focus is applying data driven tools to nuclear fusion applications. Currently I am investigating **physics-informed neural networks** for their ability to **accelerate plasma simulations** on the JET reactor. My other research interests include deep learning surrogate models, cybersecurity and plasma disruption prediction. 
 
 I'm also a fellow of the [Software Sustainabilty Institute](https://www.software.ac.uk/) where I advocate for better software practices in academia and teach introductory programming skills with the [Software Carpentries](https://software-carpentry.org/).  
 
@@ -16,7 +16,7 @@ Find an overview of my research and technical experience below or on my [CV](/pu
 
 ### Publications
 
-* **E. Lewis**, S. Pamela, Y. Andreopoulos, G. Szepesi, "Neural surrogates for fast Grad-Shafranov equilibria reconstruction", 48th Conference on Plasma Physics (2022) (*Poster presentation*) 
+* **E. Lewis**, S. Pamela, Y. Andreopoulos, G. Szepesi, "Neural surrogates for fast Grad-Shafranov equilibria reconstruction", 48th EPS Conference on Plasma Physics (2022) (*Poster presentation*) 
 * E. Lewis, T. Mlinarevic, A. Wilkinson, ["Machine Learning for Static Malware Analysis"](https://research.nccgroup.com/2021/06/07/research-paper-machine-learning-for-static-malware-analysis-with-university-college-london/), NCC Technical Report (2021) (*Technical note*)
 * **E. Lewis**, G. Cartland-Glover, S. Rolfo, C. Moulinec, D. Emerson, B. Merk ["Modelling the draining of a molten chloride salt reactor"](https://www.researchgate.net/publication/336956207_Modelling_the_draining_of_a_molten_chloride_salt_reactor), 18th International Topical Meeting on Nuclear Reactor Thermal Hydraulics, Portland, Oregon (2019)
 
