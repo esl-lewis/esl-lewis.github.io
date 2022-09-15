@@ -10,7 +10,7 @@ My research focus is applying data driven tools to nuclear fusion applications. 
 
 I'm also a fellow of the [Software Sustainabilty Institute](https://www.software.ac.uk/) where I advocate for better software practices in academia and teach introductory programming skills with the [Software Carpentries](https://software-carpentry.org/).  
 
-Find an overview of my research and technical experience below or on my [CV](/public/CV_ELewis.pdf). Find me on [twitter](https://twitter.com/esllewis) where I mainly talk about science outreach and silly uses of ML. Checkout my [github](https://github.com/esl-lewis) for personal programming projects. 
+Find an overview of my research and technical experience below or on my [CV](/public/CV_ELewis.pdf). Find me on [twitter](https://twitter.com/esllewis) where I mainly talk about science outreach and unorthodox uses of ML. Checkout [github](https://github.com/esl-lewis) for my personal programming projects. 
 
 
 
